@@ -22,7 +22,7 @@ msgstr "Estatísticas"
 
 #: cps/admin.py
 msgid "Calibre database unavailable. Please reconfigure the library path."
-msgstr ""
+msgstr "Banco de dados do Calibre indisponível. Reconfigure o caminho da biblioteca."
 
 #: cps/admin.py
 #, fuzzy
